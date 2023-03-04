@@ -1,2 +1,10 @@
-# XDM-Trip-Plan
-trip planning and scheduling
+# 關於
+五月份小的們旅行社行程規劃
+
+# 使用
+這是一個共享文件，可用於行程規劃，預算規劃，以及遠程編輯。
+
+# 成員
+崔雅婷: Yating Cui
+侯博文: Bowen Hou
+秦嘯雷: Orion Qin
